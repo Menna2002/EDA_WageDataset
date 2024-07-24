@@ -1,7 +1,7 @@
 # Exploratory Data Analysis (EDA) for Wage Dataset
 
 ## Data Cleaning and Preparation
-- **Missing Data Handling:**
+- **Missing Data Handling**
 - **Data Types:** Check and convert data types if necessary.
 - **Outlier Detection:** Identify and handle outliers if applicable.
 
